@@ -13,6 +13,8 @@ Displays extra columns (Alternative Text, Caption, Description, Permalink and Fi
 
 There are no settings for this plugin. Simply activate and enjoy!
 
+> Read more about why we made this plugin over at [fooplugins.com](http://fooplugins.com/wp-media-library-fields-plugin/)
+
 == Installation ==
 1. Upload the plugin folder to your `/wp-content/plugins/` folder
 2. Activate the plugin through the 'Plugins' menu in WordPress
