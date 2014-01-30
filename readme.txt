@@ -29,7 +29,7 @@ Simply activate it and enjoy new columns in your media library.
 1. New columns in the media library
 
 == Changelog ==
-= 0.1 =
+= 1.0.0 =
 * Initial Relase. First version.
 
 == Upgrade Notice ==
