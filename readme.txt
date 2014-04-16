@@ -2,7 +2,7 @@
 Contributors: awarner20,bradvin
 Tags: media,media library,image alt,image caption
 Requires at least: 3.8
-Tested up to: 3.8.1
+Tested up to: 3.9
 Stable tag: trunk
 License: GPLv2 or later
 
